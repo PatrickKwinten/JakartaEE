@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.lotus.com/dxl" name="Setting" alias="Setting" publicaccess="false" renderpassthrough="true">
+<body>
+<richtext>
+<pardef id="1" leftmargin="1in" rightmargin="100%"/>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>Key</run>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>:</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+<field type="text" kind="editable" name="Key"/>
+</run>
+<compositedata type="98" prevtype="65418" nexttype="222" afterparcount="6" containertype="65418" aftercontainercount="1" afterbegincount="3">
+Yg4BAIQAAAAAAAAAAAA=
+</compositedata>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>Name</run>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>:</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+<field type="text" kind="editable" name="Name"/>
+</run>
+<compositedata type="98" prevtype="65418" nexttype="222" afterparcount="6" containertype="65418" aftercontainercount="1" afterbegincount="3">
+Yg4BAIQAAAAAAAAAAAA=
+</compositedata>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>Comments</run>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>:</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+<field type="text" kind="editable" name="Comments"/>
+</run>
+<compositedata type="98" prevtype="65418" nexttype="222" afterparcount="6" containertype="65418" aftercontainercount="1" afterbegincount="3">
+Yg4BAIQAAAAAAAAAAAA=
+</compositedata>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>Value1</run>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>:</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+<field type="text" kind="editable" name="Value1"/>
+</run>
+<compositedata type="98" prevtype="65418" nexttype="222" afterparcount="6" containertype="65418" aftercontainercount="1" afterbegincount="3">
+Yg4BAIQAAAAAAAAAAAA=
+</compositedata>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>Value2:</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+<field type="text" kind="editable" name="Value2"/>
+</run>
+<compositedata type="98" prevtype="65418" nexttype="222" afterparcount="6" containertype="65418" aftercontainercount="1" afterbegincount="3">
+Yg4BAIQAAAAAAAAAAAA=
+</compositedata>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>Value3:</run>
+</par>
+<par def="1">
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+<field type="text" kind="editable" name="Value3"/>
+</run>
+<compositedata type="98" prevtype="65418" nexttype="222" afterparcount="6" containertype="65418" aftercontainercount="1" afterbegincount="3">
+Yg4BAIQAAAAAAAAAAAA=
+</compositedata>
+<run>
+<font name="Arial" pitch="variable" truetype="true" familyid="20"/>
+</run>
+</par>
+</richtext>
+</body>
+</form>
