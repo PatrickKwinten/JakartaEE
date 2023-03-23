@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+  <feature id="org.openntf.xsp.microprofile.rest.client.feature"
+    url="features/org.openntf.xsp.microprofile.rest.client.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <category-def label="XPages Jakarta EE" name="XPages Jakarta EE"/>
+  <feature id="org.openntf.xsp.jakarta.persistence.feature"
+    url="features/org.openntf.xsp.jakarta.persistence.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.cdi.feature"
+    url="features/org.openntf.xsp.cdi.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.el.feature"
+    url="features/org.openntf.xsp.el.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.microprofile.config.feature"
+    url="features/org.openntf.xsp.microprofile.config.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.jakarta.servlet.feature"
+    url="features/org.openntf.xsp.jakarta.servlet.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.nosql.feature"
+    url="features/org.openntf.xsp.nosql.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.jsf.feature"
+    url="features/org.openntf.xsp.jsf.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.mvc.feature"
+    url="features/org.openntf.xsp.mvc.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.microprofile.fault.tolerance.feature"
+    url="features/org.openntf.xsp.microprofile.fault.tolerance.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.jaxrs.feature"
+    url="features/org.openntf.xsp.jaxrs.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.jsp.feature"
+    url="features/org.openntf.xsp.jsp.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.microprofile.health.feature"
+    url="features/org.openntf.xsp.microprofile.health.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.jsonapi.feature"
+    url="features/org.openntf.xsp.jsonapi.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.beanvalidation.feature"
+    url="features/org.openntf.xsp.beanvalidation.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+  <feature id="org.openntf.xsp.jakartaee.feature"
+    url="features/org.openntf.xsp.jakartaee.feature_2.11.0.202303222014.jar" version="2.11.0.202303222014">
+    <category name="XPages Jakarta EE"/>
+  </feature>
+</site>
